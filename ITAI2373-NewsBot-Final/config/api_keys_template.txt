@@ -1,0 +1,11 @@
+# NewsBot 2.0 does not require any paid API keys — translation uses the free
+# deep-translator (Google Translate web backend) and all models run locally
+# (spaCy, scikit-learn, NLTK VADER). This template is kept for the required
+# repository structure and for anyone who wants to swap in a paid service.
+
+# Example, if you add one later:
+# OPENAI_API_KEY=your-key-here
+# DEEPL_API_KEY=your-key-here
+
+# Never commit a real key. Copy this file to api_keys.txt (git-ignored) and
+# fill in real values there if needed.
